@@ -1,0 +1,6 @@
+{
+  "name": "SubShield - Anti-Subscription & Trial Collision Timer",
+  "description": "Stop sneaky renewals and trial trap charges. Track recurring subscriptions, pinpoint billing collisions, and save money with timely alerts.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
